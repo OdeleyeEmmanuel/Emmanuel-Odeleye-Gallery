@@ -1,0 +1,1 @@
+Upload index.html, robots.txt and sitemap.xml to the root of the GitHub Pages repository. All 42 supplied pictures are embedded directly inside index.html; no image files need to be uploaded separately. The canonical URL assumes the repository is named Emmanuel-Odeleye-Gallery.
